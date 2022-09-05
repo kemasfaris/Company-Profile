@@ -1,5 +1,5 @@
-kemas
-wanda
-binar
-haikal
-andrew
+kemas : header
+wanda : body
+binar : Footer
+haikal : styling css
+andrew : asset
