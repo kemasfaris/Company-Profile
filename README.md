@@ -1,2 +1,2 @@
-# Company-Profilr
+# Company-Profile
 kelompok 4
